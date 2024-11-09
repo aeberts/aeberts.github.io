@@ -1,0 +1,24 @@
+Thursday, 06-Jun-2019 21:52:53 - restore started
+Thursday, 06-Jun-2019 21:52:53 - wp version     : 5.2.1
+Thursday, 06-Jun-2019 21:52:53 - php version    : 7.0.33-0ubuntu0.16.04.5
+Thursday, 06-Jun-2019 21:52:53 - mysql version  : 5.7.26
+Thursday, 06-Jun-2019 21:52:53 - memory limit   : 1024M
+Thursday, 06-Jun-2019 21:52:53 - execution time : 600
+Thursday, 06-Jun-2019 21:52:53 - mysql timeout  : 
+Thursday, 06-Jun-2019 21:52:53 - socket timeout : 600
+Thursday, 06-Jun-2019 21:52:53 - file download started
+Thursday, 06-Jun-2019 21:52:54 - download finished, filesize - 33.54 MB
+Thursday, 06-Jun-2019 21:52:54 - extracting database using ziparchive
+Thursday, 06-Jun-2019 21:52:54 - changing prefix from "ITugvo5g_" to "wp_"
+Thursday, 06-Jun-2019 21:52:54 - database import started
+Thursday, 06-Jun-2019 21:52:54 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1", "siteurl", "https://alexeberts.com", "yes")"
+Thursday, 06-Jun-2019 21:52:54 - mysql query failed. error : 1065 Query was empty - query : ""
+Thursday, 06-Jun-2019 21:52:54 - database import finished
+Thursday, 06-Jun-2019 21:52:54 - search and replace started
+Thursday, 06-Jun-2019 21:52:54 - there are 14 tables to scan
+Thursday, 06-Jun-2019 21:52:54 - search and replace finished
+Thursday, 06-Jun-2019 21:52:54 - extracting archive using ziparchive
+Thursday, 06-Jun-2019 21:52:57 - copying files..
+Thursday, 06-Jun-2019 21:53:02 - deleting temp directory..
+Thursday, 06-Jun-2019 21:53:06 - deleting downloaded zip file..
+Thursday, 06-Jun-2019 21:53:06 - restore finished
